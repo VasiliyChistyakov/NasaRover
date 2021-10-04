@@ -1,11 +1,12 @@
 # NasaRover
 
-Приложение использует API [ЦБ РФ](https://www.cbr-xml-daily.ru), для перевода в Рубли.
+Приложение использует API [NASA](https://api.nasa.gov), для получения снимков с Марса 
 
 - URLSession
 - JSON
 - MVC
 - UIKit
+- UICollectionView
 
 
 <img src="https://user-images.githubusercontent.com/81886542/135909760-3e9508a1-7625-469d-b8b8-f405f3c13cd5.png" width="300" />
